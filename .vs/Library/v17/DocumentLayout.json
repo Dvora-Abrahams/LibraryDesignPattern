@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\bridge\\textcolordisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\bridge\\textcolordisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\bridge\\backgroundcolordisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\bridge\\backgroundcolordisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\adapterfolder\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\adapterfolder\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\composite\\booksincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\composite\\booksincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\adapterfolder\\blue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\adapterfolder\\blue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\bridge\\colordisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\bridge\\colordisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\facade\\libraryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\facade\\libraryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\decorator\\bookdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\decorator\\bookdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\flyweight\\bookfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\flyweight\\bookfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\flyweight\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\flyweight\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\flyweight\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\flyweight\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\proxy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\proxy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\decorator\\rarebookdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\decorator\\rarebookdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\decorator\\libraryonlydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\decorator\\libraryonlydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\enums (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\enums (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\adapterfolder\\yellow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\adapterfolder\\yellow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\adapterfolder\\icolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\adapterfolder\\icolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\adapterfolder\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\adapterfolder\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|i:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\group3\\sever\\designpattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\library\\adapterfolder\\green.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\adapterfolder\\green.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Roaming\\jupyter\\runtime\\jpserver-25928-open.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\server\\Library\\Library\\Adapter\\Adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Program.cs",
+              "RelativeToolTip": "Library\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:11:43.221Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LibraryFacade.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Facade\\LibraryFacade.cs",
+              "RelativeDocumentMoniker": "Library\\Facade\\LibraryFacade.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Facade\\LibraryFacade.cs",
+              "RelativeToolTip": "Library\\Facade\\LibraryFacade.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAcwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:57:31.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksInCategory.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Composite\\BooksInCategory.cs",
+              "RelativeDocumentMoniker": "Library\\Composite\\BooksInCategory.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Composite\\BooksInCategory.cs",
+              "RelativeToolTip": "Library\\Composite\\BooksInCategory.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:27:05.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookDecorator.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Decorator\\BookDecorator.cs",
+              "RelativeDocumentMoniker": "Library\\Decorator\\BookDecorator.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Decorator\\BookDecorator.cs",
+              "RelativeToolTip": "Library\\Decorator\\BookDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:11:46.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Flyweight\\Book.cs",
+              "RelativeDocumentMoniker": "Library\\Flyweight\\Book.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Flyweight\\Book.cs",
+              "RelativeToolTip": "Library\\Flyweight\\Book.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:36:25.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookFactory.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Flyweight\\BookFactory.cs",
+              "RelativeDocumentMoniker": "Library\\Flyweight\\BookFactory.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Flyweight\\BookFactory.cs",
+              "RelativeToolTip": "Library\\Flyweight\\BookFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:31:49.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackgroundColorDisplay.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Bridge\\BackgroundColorDisplay.cs",
+              "RelativeDocumentMoniker": "Library\\Bridge\\BackgroundColorDisplay.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Bridge\\BackgroundColorDisplay.cs",
+              "RelativeToolTip": "Library\\Bridge\\BackgroundColorDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:10:10.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\AdapterFolder\\Adapter.cs",
+              "RelativeDocumentMoniker": "Library\\AdapterFolder\\Adapter.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\AdapterFolder\\Adapter.cs",
+              "RelativeToolTip": "Library\\AdapterFolder\\Adapter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:34:17.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextColorDisplay.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Bridge\\TextColorDisplay.cs",
+              "RelativeDocumentMoniker": "Library\\Bridge\\TextColorDisplay.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Bridge\\TextColorDisplay.cs",
+              "RelativeToolTip": "Library\\Bridge\\TextColorDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:09:40.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColorDisplay.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Bridge\\ColorDisplay.cs",
+              "RelativeDocumentMoniker": "Library\\Bridge\\ColorDisplay.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Bridge\\ColorDisplay.cs",
+              "RelativeToolTip": "Library\\Bridge\\ColorDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:28:26.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blue.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\AdapterFolder\\Blue.cs",
+              "RelativeDocumentMoniker": "Library\\AdapterFolder\\Blue.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\AdapterFolder\\Blue.cs",
+              "RelativeToolTip": "Library\\AdapterFolder\\Blue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:07:10.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RareBookDecorator.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Decorator\\RareBookDecorator.cs",
+              "RelativeDocumentMoniker": "Library\\Decorator\\RareBookDecorator.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Decorator\\RareBookDecorator.cs",
+              "RelativeToolTip": "Library\\Decorator\\RareBookDecorator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:09:31.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryOnlyDecorator.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Decorator\\LibraryOnlyDecorator.cs",
+              "RelativeDocumentMoniker": "Library\\Decorator\\LibraryOnlyDecorator.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Decorator\\LibraryOnlyDecorator.cs",
+              "RelativeToolTip": "Library\\Decorator\\LibraryOnlyDecorator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:09:08.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Proxy\\User.cs",
+              "RelativeDocumentMoniker": "Library\\Proxy\\User.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Proxy\\User.cs",
+              "RelativeToolTip": "Library\\Proxy\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:09:57.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Flyweight\\IBook.cs",
+              "RelativeDocumentMoniker": "Library\\Flyweight\\IBook.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Flyweight\\IBook.cs",
+              "RelativeToolTip": "Library\\Flyweight\\IBook.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:40:53.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Yellow.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\AdapterFolder\\Yellow.cs",
+              "RelativeDocumentMoniker": "Library\\AdapterFolder\\Yellow.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\AdapterFolder\\Yellow.cs",
+              "RelativeToolTip": "Library\\AdapterFolder\\Yellow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:49:26.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Enums (1).cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Enums (1).cs",
+              "RelativeDocumentMoniker": "Library\\Enums (1).cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\Enums (1).cs",
+              "RelativeToolTip": "Library\\Enums (1).cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:08:20.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Icolor.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\AdapterFolder\\Icolor.cs",
+              "RelativeDocumentMoniker": "Library\\AdapterFolder\\Icolor.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\AdapterFolder\\Icolor.cs",
+              "RelativeToolTip": "Library\\AdapterFolder\\Icolor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:08:48.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Adapter\\Adapter.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Adapter\\Adapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:02:53.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Red.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\AdapterFolder\\Red.cs",
+              "RelativeDocumentMoniker": "Library\\AdapterFolder\\Red.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\AdapterFolder\\Red.cs",
+              "RelativeToolTip": "Library\\AdapterFolder\\Red.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:49:25.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Green.cs",
+              "DocumentMoniker": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\AdapterFolder\\Green.cs",
+              "RelativeDocumentMoniker": "Library\\AdapterFolder\\Green.cs",
+              "ToolTip": "I:\\\u05D4\u05D2\u05E9\u05EA \u05DE\u05D1\u05D7\u05E0\u05D9\u05DD \u05D5\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA\\Group3\\Sever\\DesignPattern2\\\u05D3\u05D1\u05D5\u05E8\u05D4 \u05D0\u05D1\u05E8\u05D4\u05DE\u05E1\\Library\\AdapterFolder\\Green.cs",
+              "RelativeToolTip": "Library\\AdapterFolder\\Green.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:08:29.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "jpserver-25928-open.html",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\jupyter\\runtime\\jpserver-25928-open.html",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\jupyter\\runtime\\jpserver-25928-open.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-27T17:28:18.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

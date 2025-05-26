@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\server\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\flyweight\\bookfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\flyweight\\bookfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\enums (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\enums (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\composite\\booksincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\composite\\booksincategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\bridge\\textcolordisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\bridge\\textcolordisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\bridge\\colordisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\bridge\\colordisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\bridge\\backgroundcolordisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\bridge\\backgroundcolordisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\adapterfolder\\icolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\adapterfolder\\icolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\adapterfolder\\yellow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\adapterfolder\\yellow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\adapterfolder\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\adapterfolder\\red.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\adapterfolder\\green.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\adapterfolder\\green.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\adapterfolder\\blue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\adapterfolder\\blue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\adapterfolder\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\adapterfolder\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\facade\\libraryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\facade\\libraryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\proxy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\proxy\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\decorator\\libraryonlydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\decorator\\libraryonlydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\decorator\\bookdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\decorator\\bookdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\flyweight\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\flyweight\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\decorator\\rarebookdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\decorator\\rarebookdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|h:\\server\\library\\library\\flyweight\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2B74A2-C59A-4CA8-9284-3A5DAD1F6349}|Library\\Library.csproj|solutionrelative:library\\flyweight\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\AppData\\Roaming\\jupyter\\runtime\\jpserver-25928-open.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\server\\Library\\Library\\Adapter\\Adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\Adapter\\Adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Program.cs",
+              "RelativeDocumentMoniker": "Library\\Program.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Program.cs*",
+              "RelativeToolTip": "Library\\Program.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:11:43.221Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Yellow.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\AdapterFolder\\Yellow.cs",
+              "RelativeDocumentMoniker": "Library\\AdapterFolder\\Yellow.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\AdapterFolder\\Yellow.cs",
+              "RelativeToolTip": "Library\\AdapterFolder\\Yellow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:49:26.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Red.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\AdapterFolder\\Red.cs",
+              "RelativeDocumentMoniker": "Library\\AdapterFolder\\Red.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\AdapterFolder\\Red.cs",
+              "RelativeToolTip": "Library\\AdapterFolder\\Red.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:49:25.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Blue.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\AdapterFolder\\Blue.cs",
+              "RelativeDocumentMoniker": "Library\\AdapterFolder\\Blue.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\AdapterFolder\\Blue.cs",
+              "RelativeToolTip": "Library\\AdapterFolder\\Blue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:07:10.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Adapter\\Adapter.cs",
+              "RelativeDocumentMoniker": "Library\\Adapter\\Adapter.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Adapter\\Adapter.cs",
+              "RelativeToolTip": "Library\\Adapter\\Adapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:02:53.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BackgroundColorDisplay.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Bridge\\BackgroundColorDisplay.cs",
+              "RelativeDocumentMoniker": "Library\\Bridge\\BackgroundColorDisplay.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Bridge\\BackgroundColorDisplay.cs",
+              "RelativeToolTip": "Library\\Bridge\\BackgroundColorDisplay.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:10:10.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextColorDisplay.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Bridge\\TextColorDisplay.cs",
+              "RelativeDocumentMoniker": "Library\\Bridge\\TextColorDisplay.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Bridge\\TextColorDisplay.cs",
+              "RelativeToolTip": "Library\\Bridge\\TextColorDisplay.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:09:40.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksInCategory.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Composite\\BooksInCategory.cs",
+              "RelativeDocumentMoniker": "Library\\Composite\\BooksInCategory.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Composite\\BooksInCategory.cs",
+              "RelativeToolTip": "Library\\Composite\\BooksInCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:27:05.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\AdapterFolder\\Adapter.cs",
+              "RelativeDocumentMoniker": "Library\\AdapterFolder\\Adapter.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\AdapterFolder\\Adapter.cs",
+              "RelativeToolTip": "Library\\AdapterFolder\\Adapter.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T12:34:17.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Icolor.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\AdapterFolder\\Icolor.cs",
+              "RelativeDocumentMoniker": "Library\\AdapterFolder\\Icolor.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\AdapterFolder\\Icolor.cs",
+              "RelativeToolTip": "Library\\AdapterFolder\\Icolor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:08:48.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColorDisplay.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Bridge\\ColorDisplay.cs",
+              "RelativeDocumentMoniker": "Library\\Bridge\\ColorDisplay.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Bridge\\ColorDisplay.cs",
+              "RelativeToolTip": "Library\\Bridge\\ColorDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:28:26.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookFactory.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Flyweight\\BookFactory.cs",
+              "RelativeDocumentMoniker": "Library\\Flyweight\\BookFactory.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Flyweight\\BookFactory.cs",
+              "RelativeToolTip": "Library\\Flyweight\\BookFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:31:49.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enums (1).cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Enums (1).cs",
+              "RelativeDocumentMoniker": "Library\\Enums (1).cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Enums (1).cs",
+              "RelativeToolTip": "Library\\Enums (1).cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:08:20.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookDecorator.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Decorator\\BookDecorator.cs",
+              "RelativeDocumentMoniker": "Library\\Decorator\\BookDecorator.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Decorator\\BookDecorator.cs",
+              "RelativeToolTip": "Library\\Decorator\\BookDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T18:11:46.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Flyweight\\Book.cs",
+              "RelativeDocumentMoniker": "Library\\Flyweight\\Book.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Flyweight\\Book.cs",
+              "RelativeToolTip": "Library\\Flyweight\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:36:25.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibraryOnlyDecorator.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Decorator\\LibraryOnlyDecorator.cs",
+              "RelativeDocumentMoniker": "Library\\Decorator\\LibraryOnlyDecorator.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Decorator\\LibraryOnlyDecorator.cs",
+              "RelativeToolTip": "Library\\Decorator\\LibraryOnlyDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:09:08.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Green.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\AdapterFolder\\Green.cs",
+              "RelativeDocumentMoniker": "Library\\AdapterFolder\\Green.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\AdapterFolder\\Green.cs",
+              "RelativeToolTip": "Library\\AdapterFolder\\Green.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:08:29.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LibraryFacade.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Facade\\LibraryFacade.cs",
+              "RelativeDocumentMoniker": "Library\\Facade\\LibraryFacade.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Facade\\LibraryFacade.cs",
+              "RelativeToolTip": "Library\\Facade\\LibraryFacade.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:57:31.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Proxy\\User.cs",
+              "RelativeDocumentMoniker": "Library\\Proxy\\User.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Proxy\\User.cs",
+              "RelativeToolTip": "Library\\Proxy\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:09:57.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RareBookDecorator.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Decorator\\RareBookDecorator.cs",
+              "RelativeDocumentMoniker": "Library\\Decorator\\RareBookDecorator.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Decorator\\RareBookDecorator.cs",
+              "RelativeToolTip": "Library\\Decorator\\RareBookDecorator.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAlwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:09:31.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "H:\\server\\Library\\Library\\Flyweight\\IBook.cs",
+              "RelativeDocumentMoniker": "Library\\Flyweight\\IBook.cs",
+              "ToolTip": "H:\\server\\Library\\Library\\Flyweight\\IBook.cs",
+              "RelativeToolTip": "Library\\Flyweight\\IBook.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:40:53.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "jpserver-25928-open.html",
+              "DocumentMoniker": "C:\\Users\\User\\AppData\\Roaming\\jupyter\\runtime\\jpserver-25928-open.html",
+              "ToolTip": "C:\\Users\\User\\AppData\\Roaming\\jupyter\\runtime\\jpserver-25928-open.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-27T17:28:18.304Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

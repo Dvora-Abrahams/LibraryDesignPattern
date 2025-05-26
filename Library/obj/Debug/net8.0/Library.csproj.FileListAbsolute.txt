@@ -1,0 +1,98 @@
+C:\Users\User\Documents\dvora\Library\Library\bin\Debug\net8.0\Library.exe
+C:\Users\User\Documents\dvora\Library\Library\bin\Debug\net8.0\Library.deps.json
+C:\Users\User\Documents\dvora\Library\Library\bin\Debug\net8.0\Library.runtimeconfig.json
+C:\Users\User\Documents\dvora\Library\Library\bin\Debug\net8.0\Library.dll
+C:\Users\User\Documents\dvora\Library\Library\bin\Debug\net8.0\Library.pdb
+C:\Users\User\Documents\dvora\Library\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\dvora\Library\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+C:\Users\User\Documents\dvora\Library\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+C:\Users\User\Documents\dvora\Library\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\dvora\Library\Library\obj\Debug\net8.0\Library.dll
+C:\Users\User\Documents\dvora\Library\Library\obj\Debug\net8.0\refint\Library.dll
+C:\Users\User\Documents\dvora\Library\Library\obj\Debug\net8.0\Library.pdb
+C:\Users\User\Documents\dvora\Library\Library\obj\Debug\net8.0\Library.genruntimeconfig.cache
+C:\Users\User\Documents\dvora\Library\Library\obj\Debug\net8.0\ref\Library.dll
+D:\Library\Library\bin\Debug\net8.0\Library.exe
+D:\Library\Library\bin\Debug\net8.0\Library.deps.json
+D:\Library\Library\bin\Debug\net8.0\Library.runtimeconfig.json
+D:\Library\Library\bin\Debug\net8.0\Library.dll
+D:\Library\Library\bin\Debug\net8.0\Library.pdb
+D:\Library\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Library\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+D:\Library\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+D:\Library\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+D:\Library\Library\obj\Debug\net8.0\Library.dll
+D:\Library\Library\obj\Debug\net8.0\refint\Library.dll
+D:\Library\Library\obj\Debug\net8.0\Library.pdb
+D:\Library\Library\obj\Debug\net8.0\Library.genruntimeconfig.cache
+D:\Library\Library\obj\Debug\net8.0\ref\Library.dll
+J:\Library\Library\bin\Debug\net8.0\Library.exe
+J:\Library\Library\bin\Debug\net8.0\Library.deps.json
+J:\Library\Library\bin\Debug\net8.0\Library.runtimeconfig.json
+J:\Library\Library\bin\Debug\net8.0\Library.dll
+J:\Library\Library\bin\Debug\net8.0\Library.pdb
+J:\Library\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+J:\Library\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+J:\Library\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+J:\Library\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+J:\Library\Library\obj\Debug\net8.0\Library.dll
+J:\Library\Library\obj\Debug\net8.0\refint\Library.dll
+J:\Library\Library\obj\Debug\net8.0\Library.pdb
+J:\Library\Library\obj\Debug\net8.0\Library.genruntimeconfig.cache
+J:\Library\Library\obj\Debug\net8.0\ref\Library.dll
+H:\server\Library\Library\bin\Debug\net8.0\Library.exe
+H:\server\Library\Library\bin\Debug\net8.0\Library.deps.json
+H:\server\Library\Library\bin\Debug\net8.0\Library.runtimeconfig.json
+H:\server\Library\Library\bin\Debug\net8.0\Library.dll
+H:\server\Library\Library\bin\Debug\net8.0\Library.pdb
+H:\server\Library\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+H:\server\Library\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+H:\server\Library\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+H:\server\Library\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+H:\server\Library\Library\obj\Debug\net8.0\Library.dll
+H:\server\Library\Library\obj\Debug\net8.0\refint\Library.dll
+H:\server\Library\Library\obj\Debug\net8.0\Library.pdb
+H:\server\Library\Library\obj\Debug\net8.0\Library.genruntimeconfig.cache
+H:\server\Library\Library\obj\Debug\net8.0\ref\Library.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\bin\Debug\net8.0\Library.exe
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\bin\Debug\net8.0\Library.deps.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\bin\Debug\net8.0\Library.runtimeconfig.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\bin\Debug\net8.0\Library.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\bin\Debug\net8.0\Library.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\obj\Debug\net8.0\Library.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\obj\Debug\net8.0\refint\Library.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\obj\Debug\net8.0\Library.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\obj\Debug\net8.0\Library.genruntimeconfig.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה\Library\obj\Debug\net8.0\ref\Library.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\bin\Debug\net8.0\Library.exe
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\bin\Debug\net8.0\Library.deps.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\bin\Debug\net8.0\Library.runtimeconfig.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\bin\Debug\net8.0\Library.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\bin\Debug\net8.0\Library.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\obj\Debug\net8.0\Library.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\obj\Debug\net8.0\refint\Library.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\obj\Debug\net8.0\Library.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\obj\Debug\net8.0\Library.genruntimeconfig.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern222222\דבורה אברהמס\Library\obj\Debug\net8.0\ref\Library.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\bin\Debug\net8.0\Library.exe
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\bin\Debug\net8.0\Library.deps.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\bin\Debug\net8.0\Library.runtimeconfig.json
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\bin\Debug\net8.0\Library.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\bin\Debug\net8.0\Library.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\obj\Debug\net8.0\Library.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\obj\Debug\net8.0\refint\Library.dll
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\obj\Debug\net8.0\Library.pdb
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\obj\Debug\net8.0\Library.genruntimeconfig.cache
+I:\הגשת מבחנים ועבודות\Group3\Sever\DesignPattern2\דבורה אברהמס\Library\obj\Debug\net8.0\ref\Library.dll
